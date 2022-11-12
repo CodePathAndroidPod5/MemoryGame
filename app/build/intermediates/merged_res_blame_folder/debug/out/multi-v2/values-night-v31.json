@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "edu.qc.seclass.memorygame.app-mergeDebugResources-28:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "D:\\Piyush Sharma\\AndroidStudioProjects\\MemoryGame\\app\\src\\main\\res\\values-night-v31\\splash_theme.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "634"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Piyush Sharma\\.gradle\\daemon\\7.4\\edu.qc.seclass.memorygame.app-mergeDebugResources-28:\\values-night-v31\\values-night-v31.xml",
+            "map": [
+                {
+                    "source": "D:\\Piyush Sharma\\AndroidStudioProjects\\MemoryGame\\app\\src\\main\\res\\values-night-v31\\splash_theme.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "627"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "567"
+                    }
+                }
+            ]
+        }
+    ]
+}

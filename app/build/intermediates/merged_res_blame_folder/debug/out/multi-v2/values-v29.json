@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "edu.qc.seclass.memorygame.app-mergeDebugResources-28:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Piyush Sharma\\.gradle\\caches\\transforms-3\\db2ed99f8f59582cf7378cbca53c3ba0\\transformed\\core-splashscreen-1.0.0-alpha01\\res\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "271"
+                    }
+                }
+            ]
+        }
+    ]
+}
