@@ -16,6 +16,7 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Piyush Sh
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\7eba164e627fab83b9f470e0bcf24ecc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\5209decdb8ec1718760b39013c2624d8\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\e48a823a67dd681c665769724324f9b0\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-splashscreen:1.0.0-alpha01] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\db2ed99f8f59582cf7378cbca53c3ba0\transformed\core-splashscreen-1.0.0-alpha01\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\b43a93e86c0c3cadf9dccf8851cf7b49\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\c8acde46631c9c6f4bc5f9755e1a6312\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\897e31fd16b4389093207b7612361dbd\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
@@ -69,6 +70,8 @@ MERGED from [com.google.android.material:material:1.6.1] C:\Users\Piyush Sharma\
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\52922504dec4e69ddb002ba926d653b7\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\fd318d54a1ab9a007d23ba1b0c5fa3db\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\fd318d54a1ab9a007d23ba1b0c5fa3db\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core-splashscreen:1.0.0-alpha01] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\db2ed99f8f59582cf7378cbca53c3ba0\transformed\core-splashscreen-1.0.0-alpha01\AndroidManifest.xml:24:5-26:19
+MERGED from [androidx.core:core-splashscreen:1.0.0-alpha01] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\db2ed99f8f59582cf7378cbca53c3ba0\transformed\core-splashscreen-1.0.0-alpha01\AndroidManifest.xml:24:5-26:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\1b0784253b632d9e409a2443c8cc9c5f\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\1b0784253b632d9e409a2443c8cc9c5f\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.8.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\c1c34bf9c09228efe6799e93d10c25ee\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
@@ -149,6 +152,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Piyush Sharm
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\5209decdb8ec1718760b39013c2624d8\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\e48a823a67dd681c665769724324f9b0\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\e48a823a67dd681c665769724324f9b0\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.0-alpha01] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\db2ed99f8f59582cf7378cbca53c3ba0\transformed\core-splashscreen-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.0-alpha01] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\db2ed99f8f59582cf7378cbca53c3ba0\transformed\core-splashscreen-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\b43a93e86c0c3cadf9dccf8851cf7b49\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\b43a93e86c0c3cadf9dccf8851cf7b49\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\c8acde46631c9c6f4bc5f9755e1a6312\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
@@ -215,6 +220,10 @@ INJECTED from D:\Piyush Sharma\AndroidStudioProjects\MemoryGame\app\src\main\And
 		INJECTED from D:\Piyush Sharma\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
 		ADDED from D:\Piyush Sharma\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Piyush Sharma\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+activity#androidx.core.splashscreen.test.SplashScreenAppCompatTestActivity
+ADDED from [androidx.core:core-splashscreen:1.0.0-alpha01] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\db2ed99f8f59582cf7378cbca53c3ba0\transformed\core-splashscreen-1.0.0-alpha01\AndroidManifest.xml:25:9-102
+	android:name
+		ADDED from [androidx.core:core-splashscreen:1.0.0-alpha01] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\db2ed99f8f59582cf7378cbca53c3ba0\transformed\core-splashscreen-1.0.0-alpha01\AndroidManifest.xml:25:19-99
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\1b0784253b632d9e409a2443c8cc9c5f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Piyush Sharma\.gradle\caches\transforms-3\c544fd34f059dc889005065fe5113ac5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20

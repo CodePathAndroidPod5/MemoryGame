@@ -7,7 +7,9 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable bg_gradient
 drawable ic_baseline_format_list_numbered_24
+drawable ic_baseline_memory_24
 drawable ic_baseline_settings_24
 drawable ic_baseline_videogame_asset_24
 drawable ic_face
@@ -24,8 +26,11 @@ drawable ic_school
 drawable ic_send
 drawable ic_star
 drawable ic_work
+drawable splash_background
+id blackout
 id bottom_navigation
 id cardView
+id congrats
 id custom_game_screen
 id imageButton
 id llGameInfo
@@ -41,6 +46,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
 string hello_blank_fragment
+style Theme.AppSplash
 style Theme.MemoryGame
 xml backup_rules
 xml data_extraction_rules

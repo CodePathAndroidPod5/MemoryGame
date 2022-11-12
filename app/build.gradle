@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "edu.qc.seclass.memorygame"
-        minSdk 21
+        minSdk 23
         targetSdk 32
         versionCode 1
         versionName "1.0"
@@ -33,7 +33,9 @@ android {
 }
 
 dependencies {
+    // Use: def instead of val if you are not using Kotlin Gradle(.kts)
 
+    implementation("androidx.core:core-splashscreen:1.0.0-alpha01")
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.5.1'
     implementation 'com.google.android.material:material:1.6.1'

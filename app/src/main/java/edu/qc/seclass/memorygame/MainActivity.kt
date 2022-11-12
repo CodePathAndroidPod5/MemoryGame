@@ -7,13 +7,14 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import edu.qc.seclass.memorygame.models.BoardSize
 import edu.qc.seclass.memorygame.utils.DEFAULT_ICONS
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 
 class MainActivity : AppCompatActivity() {
 
     private lateinit var rvBoard: RecyclerView
     private lateinit var tvNumMoves: TextView
     private lateinit var tvNumPairs: TextView
-
+    private lateinit var congrats: TextView
 
     private var boardSize: BoardSize = BoardSize.EASY
 
@@ -21,17 +22,19 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        //installSplashScreen()
         setContentView(R.layout.activity_main)
 
         rvBoard= findViewById(R.id.rvBoard)
         tvNumMoves = findViewById(R.id.tvNumMoves)
         tvNumPairs = findViewById(R.id.tvNumPairs)
+        congrats = findViewById(R.id.congrats)
 
         val chosenImages = DEFAULT_ICONS.shuffled().take(boardSize.getNumPairs())
         val randomizedImages = (chosenImages + chosenImages).shuffled()
 
         //adapter provides binding for data set to the views of RV
-        rvBoard.adapter = MemoryBoardAdapter(this, boardSize, randomizedImages)
+        rvBoard.adapter = MemoryBoardAdapter(this, boardSize, randomizedImages, tvNumPairs, congrats)
         rvBoard.setHasFixedSize(true)
         //measures and positions item views
         rvBoard.layoutManager = GridLayoutManager(this, boardSize.getWidth())
