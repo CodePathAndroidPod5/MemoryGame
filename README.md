@@ -38,6 +38,10 @@ Memory Game app will be in the entertainment category. This game will first give
 <img src='memoryGameWeek1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='memoryGameWeek2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+**Project Video Link**
+
+[![Watch the video](https://img.youtube.com/vi/zhCH3eiNHZ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=zhCH3eiNHZ4)
+
 
 **Stretch Features**
 
