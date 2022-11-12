@@ -29,9 +29,15 @@ Memory Game app will be in the entertainment category. This game will first give
 
 - [X] * User can customize size of (n x m) items in game
 - [X] * User can see how many pairs they have gotten
+<img src='memoryGameWeek2-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 - [X] * User will receive congratulations message after successfully completing a set
+<img src='memoryGameWeek2-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <img src='memoryGameWeek1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='memoryGameWeek2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 **Stretch Features**
 
