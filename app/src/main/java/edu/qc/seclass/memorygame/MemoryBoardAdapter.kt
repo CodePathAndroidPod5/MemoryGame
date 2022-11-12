@@ -79,7 +79,7 @@ class MemoryBoardAdapter(
 
                     Log.i(TAG,"" + clickCount)
                     Log.i(TAG, "Initial Choice (pos: " + position + ", id: " + clickedImage + ")")
-                    blackout.visibility = ImageView.INVISIBLE
+                    //blackout.visibility = ImageView.INVISIBLE
 
                 } else {
                     Log.i(TAG,"" + clickCount)
@@ -98,13 +98,12 @@ class MemoryBoardAdapter(
                             } else {
                                 Log.i(TAG, "REPEATED PAIR")
                                 Log.i(TAG, "SCORE: " + score)
-                                blackout.visibility = ImageView.INVISIBLE
                             }
                         }
                     } else {
                         Log.i(TAG, "NOT MATCHED")
                         Log.i(TAG, "SCORE: " + score)
-                        blackout.visibility = ImageView.INVISIBLE
+
                     }
                 }
 
